@@ -30,6 +30,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Projeto desenvolvido durante o curso Javascript na Web: manipule o DOM com javascript. 
 Uma lista de Afazeres onde o usuário pode adicionar tarefas e concluí-las ou excluí-las.
 
-Você pode ver o site neste link: [Javascript - Lista de Afazeres]()
+Você pode ver o site neste link: [Javascript - Lista de Afazeres](https://nigerade.github.io/jsListaAfazeres/content/)
 
 --- 
