@@ -3,6 +3,8 @@ const BotaoDeleta = () => {
     // declara var botaoDeleta
     const botaoDeleta = document.createElement('button')
 
+    // adiciona a classe com o estilo do css
+    botaoDeleta.classList.add('delete-button')
     // ao criar preenche o botão com o texto: deletar
     botaoDeleta.innerText = 'deletar'
 
