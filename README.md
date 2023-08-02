@@ -27,7 +27,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🚧 Projeto
 
-Projeto desenvolvido durante o curso Javascript na Web: manipule o DOM com javascript. 
+Projeto desenvolvido durante o curso Javascript na Web: manipule o DOM com javascript pela Alura One.
 Uma lista de Afazeres onde o usuário pode adicionar tarefas e concluí-las ou excluí-las.
 
 Você pode ver o site neste link: [Javascript - Lista de Afazeres](https://nigerade.github.io/jsListaAfazeres/content/)
